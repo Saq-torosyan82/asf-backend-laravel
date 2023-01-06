@@ -1,0 +1,7 @@
+{
+  "name": "apiato/upload",
+  "description": "Upload Container for apiato.",
+  "require": {
+    "dyrynda/laravel-efficient-uuid": "^4.3.0"
+  }
+}
